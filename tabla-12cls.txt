@@ -1,0 +1,12 @@
+5 x 1 = NaN
+5 x 2 = NaN
+5 x 3 = NaN
+5 x 4 = NaN
+5 x 5 = NaN
+5 x 6 = NaN
+5 x 7 = NaN
+5 x 8 = NaN
+5 x 9 = NaN
+5 x 10 = NaN
+5 x 11 = NaN
+5 x 12 = NaN
